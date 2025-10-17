@@ -48,7 +48,7 @@ Thymeleaf is a server-side template engine used to dynamically render HTML eleme
 1. **Clone the repository**  
     ```bash
    git clone https://github.com/SriSailesh3320/NomNom.git
-   cd NomNom
+   cd NomNom/application
    ```
 
 
